@@ -111,7 +111,7 @@ const Hero = () => {
             className="text-gradient relative inline-block"
             whileHover={{ scale: 1.02 }}
           >
-            João Silva
+            Antonio Dev
             <motion.span
               className="absolute -bottom-2 left-0 w-full h-1 bg-gradient-to-r from-primary to-blue-400 rounded-full"
               initial={{ scaleX: 0 }}
