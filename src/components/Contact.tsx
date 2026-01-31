@@ -13,30 +13,30 @@ import { useState } from "react";
 const contactLinks = [
   {
     label: "Email",
-    href: "mailto:joao.silva@email.com",
+    href: "mailto:antoniodev2709@gmail.com",
     icon: Mail,
-    value: "joao.silva@email.com",
+    value: "antoniodev2709@gmail",
     color: "from-red-500 to-orange-500",
   },
   {
     label: "GitHub",
-    href: "https://github.com/joaosilva",
+    href: "https://github.com/devantonio27",
     icon: Github,
-    value: "@joaosilva",
+    value: "@devantonio27",
     color: "from-gray-600 to-gray-800",
   },
   {
     label: "LinkedIn",
-    href: "https://linkedin.com/in/joaosilva",
+    href: "https://linkedin.com/in/antonio-carlos-melo-b542a7281",
     icon: Linkedin,
-    value: "/in/joaosilva",
+    value: "/in/antoniodev27",
     color: "from-blue-600 to-blue-800",
   },
   {
     label: "WhatsApp",
-    href: "https://wa.me/5511999999999",
+    href: "https://wa.me/558299527183",
     icon: MessageCircle,
-    value: "+55 11 99999-9999",
+    value: "+55 82 99952-7183",
     color: "from-green-500 to-emerald-600",
   },
 ];

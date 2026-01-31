@@ -5,7 +5,7 @@ const infoCards = [
   {
     icon: Code2,
     title: "Foco Atual",
-    description: "Desenvolvimento Frontend com React",
+    description: "Desenvolvimento Fullstack com TypeScript, React e NodeJs",
     color: "from-blue-500 to-cyan-500",
   },
   {
@@ -17,7 +17,7 @@ const infoCards = [
   {
     icon: MapPin,
     title: "Localização",
-    description: "Brasil • Remoto ou Presencial",
+    description: "Maceió - AL • Remoto ou Presencial",
     color: "from-orange-500 to-yellow-500",
   },
 ];

@@ -7,12 +7,12 @@ const Footer = () => {
     <footer className="py-8 px-6 border-t border-border">
       <div className="container-narrow flex flex-col md:flex-row items-center justify-between gap-4">
         <p className="text-sm text-muted-foreground">
-          © {currentYear} João Silva. Todos os direitos reservados.
+          © {currentYear} Antonio Carlos. Todos os direitos reservados.
         </p>
 
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com"
+            href="https://github.com/devantonio27"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -21,7 +21,7 @@ const Footer = () => {
             <Github className="h-5 w-5" />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/antonio-carlos-melo-b542a7281/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -30,7 +30,7 @@ const Footer = () => {
             <Linkedin className="h-5 w-5" />
           </a>
           <a
-            href="mailto:joao.silva@email.com"
+            href="mailto:antoniodev2709@gmail.com"
             className="text-muted-foreground hover:text-foreground transition-colors"
             aria-label="Email"
           >
