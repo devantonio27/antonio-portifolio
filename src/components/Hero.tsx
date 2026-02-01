@@ -167,7 +167,7 @@ const Hero = () => {
                 className="relative overflow-hidden group"
               >
                 <a
-                  href="https://github.com"
+                  href="https://github.com/devantonio27"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub"
@@ -193,7 +193,7 @@ const Hero = () => {
                 className="relative overflow-hidden group"
               >
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/antonio-carlos-melo-b542a7281/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"
@@ -209,32 +209,6 @@ const Hero = () => {
               </Button>
             </motion.div>
           </div>
-        </motion.div>
-
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.5, delay: 1 }}
-          className="absolute bottom-10 left-1/2 -translate-x-1/2"
-        >
-          <motion.a
-            href="#about"
-            className="text-muted-foreground hover:text-primary transition-colors flex flex-col items-center gap-2"
-            aria-label="Scroll para baixo"
-            whileHover={{ y: 5 }}
-          >
-            <span className="text-xs uppercase tracking-wider">Explorar</span>
-            <motion.div
-              animate={{ y: [0, 8, 0] }}
-              transition={{
-                duration: 1.5,
-                repeat: Infinity,
-                ease: "easeInOut",
-              }}
-            >
-              <ArrowDown className="h-6 w-6" />
-            </motion.div>
-          </motion.a>
         </motion.div>
       </div>
     </section>
